@@ -21,7 +21,7 @@ These projects focus on understanding Python variables, numbers, strings, lists,
 | 5  | BMI Calculator         | Calculate and categorize BMI       | Numbers, conditionals                   | ✅ Done        |
 | 6  | Mad Libs Generator     | Fill story blanks with input       | Strings, input, concatenation           | ⬜ Coming Soon |
 | 7  | Coin Flip Simulator    | Simulate heads/tails               | Random, strings, conditionals           | ✅ Done        |
-| 8  | Dice Rolling Simulator | Simulate dice rolls                | Random, numbers                         | ⬜ Coming Soon |
+| 8  | Dice Rolling Simulator | Simulate dice rolls                | Random, numbers                         | ✅ Done        |
 | 9  | Countdown Timer        | Timer countdown in seconds         | Loops, time module                      | ⬜ Coming Soon |
 | 10 | Simple Alarm Clock     | Alert user at set time             | Time module, loops, input               | ⬜ Coming Soon |
 
